@@ -1,3 +1,23 @@
+# Lista de tarefas
+
+Como normalmente sempre faço uma lista de tarefas para cada tech que aprendo, com react não foi diferente.
+
+# Usando componentes
+
+Essa lista de tarefas foi criada usando funcões components do react. Usando components separados, como a lógica da lista em um component separado(percorrer um array e rederizar na tela), como também o alerta e o input, somente as div's que estruturam no App que liga no index.js.
+
+# useState
+
+Lidei com state de cada váriavel, ou seja, o state atualizava o valor que seria percorrido por um map, onde é possível mostrar cada tarefa.
+
+# useRef
+
+Lidando com o useRef para pegar o valor de um input
+
+# Lógicas
+
+O usuário não pode acrescentar uma tarefa sem nada no input e quando adicionar aparece um aviso.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
